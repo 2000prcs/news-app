@@ -1,0 +1,8 @@
+# Dependencies 
+node_modules
+
+# MAC files
+.DS_Store
+
+# Bundles
+.next
