@@ -1,0 +1,11 @@
+{
+  "title": "Publist Frontend Engineering Challenge",
+  "description": "Welcome to the Publist (https://publist.ai) coding project! Thank you so much for taking the time to take our challenge. If you crush this, you’ll move on to the technical interview, where we’ll talk about your code. We recommend only spending 2 hours on this. If it’s taking longer, just jot down the overall plan you had to finish and we’ll go from there. Treat this as if you were shipping to production. Send a link to a public git repo (preferred) or a .zip of your code to jobs@publist.ai.",
+  "send_to": "jobs@publist.ai",
+  "challenge": ["Log in to publist.ai by going to https://publist.ai/signup (access code is beta1)", "Once in, look at cookies to get your api token (what kind of token is this?)", "Send an HTTP request to our query endpoint (make sure to remove escaping in the body):", "curl -X POST -H 'Authorization: Bearer {{eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NzUsIm5hbWUiOiJNb3llb25nIExlZSIsImVtYWlsIjoibGVlbW95ZW9uZ0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZW1haWxfdmVyaWZpY2F0aW9uX2NvZGUiOiIzOTg1NjMiLCJwYXNzd29yZCI6IiQyYSQxMCR4YXE2T0JYak5ZeFJqZVJsSzJ5TkRPNlFjZmJER2FXRGVtNkdSZktPbzA4azJKR1JxT01tRyIsInBlcm1pc3Npb25zIjpudWxsLCJ0aW1lem9uZSI6IkFtZXJpY2EvTG9zX0FuZ2VsZXMiLCJpcF9hZGRyZXNzIjoiOTguMjA3LjI1MC41NS8zMiIsIm9wdGlvbnMiOnt9LCJtZXRhZGF0YSI6e30sImxhc3RfbG9naW4iOiIyMDE4LTA4LTAxVDIzOjQ0OjMzLjIzMVoiLCJsYXN0X2FjdGl2ZSI6IjIwMTgtMDgtMDFUMjM6NDQ6MzMuMjMxWiIsInVwZGF0ZWQiOiIyMDE4LTA4LTAxVDIzOjQ0OjMzLjIzMVoiLCJjcmVhdGVkIjoiMjAxOC0wOC0wMVQyMzo0NDozMy4yMzFaIiwiaWF0IjoxNTMzMTY3MDc0LCJleHAiOjE1MzQzNzY2NzR9.mQ5ZI8V2FwPYFftOcaFHkM85ZJXxRzF7UgX0UxiSF3k}}' -H 'Content-type: application/json' -d '{\"query\": \"tech\"}' 'https://publist.ai/api/v2/jobs.frontend'", "Design and build a simple UI to query our data", "Please send us clean code (we like prettier and eslint), tested-code (we like jest), and have some kind of structure (we like next.js).", "Bonus: send us some kind of plan for deployment"
+  ],
+  "error": false
+}
+
+
+
