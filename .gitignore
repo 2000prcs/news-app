@@ -4,5 +4,8 @@ node_modules
 # MAC files
 .DS_Store
 
-# Bundles
+# Next.js bundles
 .next
+
+# Coverage directory used by jest testing
+coverage

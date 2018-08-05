@@ -5,8 +5,9 @@ export default class MyDocument extends Document {
     return (
       <html>
         <Head>
+          <title>News App</title>
+          <meta name="viewport" content="initial-scale=1.0, width=device-width" />
           <link rel="stylesheet" href="/_next/static/style.css" />
-          {/* <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css" /> */}
         </Head>
         <body>
           <Main />
