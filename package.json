@@ -3,23 +3,8 @@
   "version": "1.0.0",
   "description": "Wordwide Tech News App",
   "main": "pages/index.js",
-  "dependencies": {
-    "@zeit/next-css": "^0.2.0",
-    "bootstrap": "^4.1.3",
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb": "^17.0.0",
-    "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-jsx-a11y": "^6.1.1",
-    "eslint-plugin-react": "^7.10.0",
-    "next": "^6.1.1",
-    "prop-types": "^15.6.2",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "reactstrap": "^6.3.1"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest -e --updateSnapshot --coverage",
     "dev": "next"
   },
   "repository": {
@@ -32,5 +17,44 @@
   "bugs": {
     "url": "https://github.com/2000prcs/news-app/issues"
   },
-  "homepage": "https://github.com/2000prcs/news-app#readme"
+  "homepage": "https://github.com/2000prcs/news-app#readme",
+  "dependencies": {
+    "@zeit/next-css": "^0.2.0",
+    "bootstrap": "^4.1.3",
+    "next": "^6.1.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "reactstrap": "^6.3.1"
+  },
+  "devDependencies": {
+    "babel-jest": "^23.4.2",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0",
+    "jest": "^23.4.2",
+    "jsdom": "^11.12.0",
+    "jsdom-global": "^3.0.2",
+    "sinon": "^6.1.4"
+  },
+  "jest": {
+    "verbose": true,
+    "testEnvironment": "jsdom",
+    "testURL": "http://localhost",
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest",
+      "^.+\\.js?$": "babel-jest"
+    },
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__tests__/__mocks__/fileMock.js",
+      "\\.(css|less)$": "<rootDir>/__tests__/__mocks__/styleMock.js"
+    },
+    "setupFiles": [
+      "./testSetUp.js"
+    ]
+  }
 }

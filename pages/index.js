@@ -8,10 +8,6 @@ import Feed from './Feed';
 const App = () => {
   return (
     <div>
-      <Head>
-        <title>News App</title>
-        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-      </Head>
       <Jumbotron fluid>
         <Container fluid>
           <h1 className="display-3">Mo's News App</h1>
