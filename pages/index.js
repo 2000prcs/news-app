@@ -1,4 +1,3 @@
-import Head from 'next/head';
 import React from 'react';
 import { Jumbotron, Container } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -10,8 +9,8 @@ const App = () => {
     <div>
       <Jumbotron fluid>
         <Container fluid>
-          <h1 className="display-3">Mo's News App</h1>
-          <p className="lead">Wordwide Tech News</p>
+          <h1 className="display-3">Worldwide Tech News</h1>
+          <p className="lead">View the latest and breaking news today for worldwide tech</p>
         </Container>
       </Jumbotron>
       <Feed newsData={data} />
