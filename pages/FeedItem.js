@@ -26,7 +26,7 @@ const FeedItem = ({ news }) => {
         </Media>
         <Media body>
           <Media heading>
-          {news.title}
+          <a href={news.url} target="_blank">{news.title}</a>
         </Media>
           {news.description}
           <br />

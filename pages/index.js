@@ -10,7 +10,7 @@ const App = () => {
       <Jumbotron fluid>
         <Container fluid>
           <h1 className="display-3">Worldwide Tech News</h1>
-          <p className="lead">View the latest and breaking news today for worldwide tech</p>
+          <p className="lead">View the latest and breaking worldwide tech news</p>
         </Container>
       </Jumbotron>
       <Feed newsData={data} />
