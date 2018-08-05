@@ -6,8 +6,9 @@
   "scripts": {
     "test": "jest -e --updateSnapshot --coverage",
     "dev": "next",
-    "postinstall": "next build",
-    "start": "next start"
+    "build": "next build",
+    "heroku-postbuild": "next build",
+    "start": "next start -p $PORT"
   },
   "repository": {
     "type": "git",
