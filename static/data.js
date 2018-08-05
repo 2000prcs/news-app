@@ -1,5 +1,4 @@
- 
- const data = [{
+const data = [{
   id: 'NLEJ7gxOak',
   title: 'Most stockmarket returns come from a tiny fraction of shares',
   description: 'Facebook, Amazon, Apple, Netflix and Google (FAANG) have been the motor of the S&P 500',
@@ -1168,7 +1167,8 @@
   slug: 'tech-stocks-mixed-after-recent-surge-banks-lift-s-and-p-dow-3379641361',
   url: 'https://www.reuters.com/article/us-usa-stocks/tech-stocks-mixed-after-recent-surge-banks-lift-sp-dow-idUSKCN1J21E8',
   mobile_url: null,
-  image_url: 'https://s3.reutersmedia.net/resources/r/',
+  // image_url: 'https://s3.reutersmedia.net/resources/r/',
+  image_url: '',
   published_at: '2018-06-06T14:33:07.000Z',
   site: {
     id: 'wRdG0w6g0M',

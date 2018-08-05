@@ -91,6 +91,17 @@ ShallowWrapper {
               The Economist
             </a>
           </span>
+          <br />
+          <span
+            style={
+              Object {
+                "fontStyle": "italic",
+              }
+            }
+          >
+            Published @ 
+            2018-06-23
+          </span>
         </Media>
         <Badge
           color="secondary"
@@ -154,6 +165,17 @@ ShallowWrapper {
               >
                 The Economist
               </a>
+            </span>
+            <br />
+            <span
+              style={
+                Object {
+                  "fontStyle": "italic",
+                }
+              }
+            >
+              Published @ 
+              2018-06-23
             </span>
           </Media>,
           <Badge
@@ -242,6 +264,17 @@ ShallowWrapper {
                   The Economist
                 </a>
               </span>,
+              <br />,
+              <span
+                style={
+                  Object {
+                    "fontStyle": "italic",
+                  }
+                }
+              >
+                Published @ 
+                2018-06-23
+              </span>,
             ],
           },
           "ref": null,
@@ -311,6 +344,35 @@ ShallowWrapper {
                   "rendered": "The Economist",
                   "type": "a",
                 },
+              ],
+              "type": "span",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {},
+              "ref": null,
+              "rendered": null,
+              "type": "br",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Published @ ",
+                  "2018-06-23",
+                ],
+                "style": Object {
+                  "fontStyle": "italic",
+                },
+              },
+              "ref": null,
+              "rendered": Array [
+                "Published @ ",
+                "2018-06-23",
               ],
               "type": "span",
             },
@@ -394,6 +456,17 @@ ShallowWrapper {
                 The Economist
               </a>
             </span>
+            <br />
+            <span
+              style={
+                Object {
+                  "fontStyle": "italic",
+                }
+              }
+            >
+              Published @ 
+              2018-06-23
+            </span>
           </Media>
           <Badge
             color="secondary"
@@ -457,6 +530,17 @@ ShallowWrapper {
                 >
                   The Economist
                 </a>
+              </span>
+              <br />
+              <span
+                style={
+                  Object {
+                    "fontStyle": "italic",
+                  }
+                }
+              >
+                Published @ 
+                2018-06-23
               </span>
             </Media>,
             <Badge
@@ -545,6 +629,17 @@ ShallowWrapper {
                     The Economist
                   </a>
                 </span>,
+                <br />,
+                <span
+                  style={
+                    Object {
+                      "fontStyle": "italic",
+                    }
+                  }
+                >
+                  Published @ 
+                  2018-06-23
+                </span>,
               ],
             },
             "ref": null,
@@ -614,6 +709,35 @@ ShallowWrapper {
                     "rendered": "The Economist",
                     "type": "a",
                   },
+                ],
+                "type": "span",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {},
+                "ref": null,
+                "rendered": null,
+                "type": "br",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    "Published @ ",
+                    "2018-06-23",
+                  ],
+                  "style": Object {
+                    "fontStyle": "italic",
+                  },
+                },
+                "ref": null,
+                "rendered": Array [
+                  "Published @ ",
+                  "2018-06-23",
                 ],
                 "type": "span",
               },
