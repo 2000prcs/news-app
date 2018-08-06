@@ -12,7 +12,7 @@
 
 <br>
 
-<img width="400" height="300" src="#">
+<img width="400" height="300" src="https://i.imgur.com/F7OxiPZ.png">
 
 ## Achievements
 
