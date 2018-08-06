@@ -29,12 +29,12 @@ ShallowWrapper {
             <h1
               className="display-3"
             >
-              Mo's News App
+              Worldwide Tech News
             </h1>
             <p
               className="lead"
             >
-              Wordwide Tech News
+              View the latest and breaking worldwide tech news
             </p>
           </Container>
         </Jumbotron>,
@@ -1355,7 +1355,7 @@ Spectra-like attacks designed to steal info such as log-on credentials.",
                 "created": "2018-06-06T15:02:38.571Z",
                 "description": "Gains for Amazon and Tesla helped the Nasdaq open at a record high on Wednesday, before the index fell slightly as Facebook led a decline in the technology sector.",
                 "id": "Nx6Q89ga2L",
-                "image_url": "https://s3.reutersmedia.net/resources/r/",
+                "image_url": "",
                 "language": "en",
                 "mobile_url": null,
                 "published_at": "2018-06-06T14:33:07.000Z",
@@ -1423,12 +1423,12 @@ for more information on how their smartphone operating systems collect data.",
             <h1
               className="display-3"
             >
-              Mo's News App
+              Worldwide Tech News
             </h1>
             <p
               className="lead"
             >
-              Wordwide Tech News
+              View the latest and breaking worldwide tech news
             </p>
           </Container>,
           "fluid": true,
@@ -1444,12 +1444,12 @@ for more information on how their smartphone operating systems collect data.",
               <h1
                 className="display-3"
               >
-                Mo's News App
+                Worldwide Tech News
               </h1>,
               <p
                 className="lead"
               >
-                Wordwide Tech News
+                View the latest and breaking worldwide tech news
               </p>,
             ],
             "fluid": true,
@@ -1462,11 +1462,11 @@ for more information on how their smartphone operating systems collect data.",
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "children": "Mo's News App",
+                "children": "Worldwide Tech News",
                 "className": "display-3",
               },
               "ref": null,
-              "rendered": "Mo's News App",
+              "rendered": "Worldwide Tech News",
               "type": "h1",
             },
             Object {
@@ -1474,11 +1474,11 @@ for more information on how their smartphone operating systems collect data.",
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "children": "Wordwide Tech News",
+                "children": "View the latest and breaking worldwide tech news",
                 "className": "lead",
               },
               "ref": null,
-              "rendered": "Wordwide Tech News",
+              "rendered": "View the latest and breaking worldwide tech news",
               "type": "p",
             },
           ],
@@ -2806,7 +2806,7 @@ Spectra-like attacks designed to steal info such as log-on credentials.",
               "created": "2018-06-06T15:02:38.571Z",
               "description": "Gains for Amazon and Tesla helped the Nasdaq open at a record high on Wednesday, before the index fell slightly as Facebook led a decline in the technology sector.",
               "id": "Nx6Q89ga2L",
-              "image_url": "https://s3.reutersmedia.net/resources/r/",
+              "image_url": "",
               "language": "en",
               "mobile_url": null,
               "published_at": "2018-06-06T14:33:07.000Z",
@@ -2882,12 +2882,12 @@ for more information on how their smartphone operating systems collect data.",
               <h1
                 className="display-3"
               >
-                Mo's News App
+                Worldwide Tech News
               </h1>
               <p
                 className="lead"
               >
-                Wordwide Tech News
+                View the latest and breaking worldwide tech news
               </p>
             </Container>
           </Jumbotron>,
@@ -4208,7 +4208,7 @@ Spectra-like attacks designed to steal info such as log-on credentials.",
                   "created": "2018-06-06T15:02:38.571Z",
                   "description": "Gains for Amazon and Tesla helped the Nasdaq open at a record high on Wednesday, before the index fell slightly as Facebook led a decline in the technology sector.",
                   "id": "Nx6Q89ga2L",
-                  "image_url": "https://s3.reutersmedia.net/resources/r/",
+                  "image_url": "",
                   "language": "en",
                   "mobile_url": null,
                   "published_at": "2018-06-06T14:33:07.000Z",
@@ -4276,12 +4276,12 @@ for more information on how their smartphone operating systems collect data.",
               <h1
                 className="display-3"
               >
-                Mo's News App
+                Worldwide Tech News
               </h1>
               <p
                 className="lead"
               >
-                Wordwide Tech News
+                View the latest and breaking worldwide tech news
               </p>
             </Container>,
             "fluid": true,
@@ -4297,12 +4297,12 @@ for more information on how their smartphone operating systems collect data.",
                 <h1
                   className="display-3"
                 >
-                  Mo's News App
+                  Worldwide Tech News
                 </h1>,
                 <p
                   className="lead"
                 >
-                  Wordwide Tech News
+                  View the latest and breaking worldwide tech news
                 </p>,
               ],
               "fluid": true,
@@ -4315,11 +4315,11 @@ for more information on how their smartphone operating systems collect data.",
                 "key": undefined,
                 "nodeType": "host",
                 "props": Object {
-                  "children": "Mo's News App",
+                  "children": "Worldwide Tech News",
                   "className": "display-3",
                 },
                 "ref": null,
-                "rendered": "Mo's News App",
+                "rendered": "Worldwide Tech News",
                 "type": "h1",
               },
               Object {
@@ -4327,11 +4327,11 @@ for more information on how their smartphone operating systems collect data.",
                 "key": undefined,
                 "nodeType": "host",
                 "props": Object {
-                  "children": "Wordwide Tech News",
+                  "children": "View the latest and breaking worldwide tech news",
                   "className": "lead",
                 },
                 "ref": null,
-                "rendered": "Wordwide Tech News",
+                "rendered": "View the latest and breaking worldwide tech news",
                 "type": "p",
               },
             ],
@@ -5659,7 +5659,7 @@ Spectra-like attacks designed to steal info such as log-on credentials.",
                 "created": "2018-06-06T15:02:38.571Z",
                 "description": "Gains for Amazon and Tesla helped the Nasdaq open at a record high on Wednesday, before the index fell slightly as Facebook led a decline in the technology sector.",
                 "id": "Nx6Q89ga2L",
-                "image_url": "https://s3.reutersmedia.net/resources/r/",
+                "image_url": "",
                 "language": "en",
                 "mobile_url": null,
                 "published_at": "2018-06-06T14:33:07.000Z",

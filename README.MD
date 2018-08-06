@@ -1,5 +1,5 @@
-# News App
-> Web application allowing users to search for their favorite movies with a fast, clear interface. 
+# Worldwide Tech News App
+> Web application viewing worldwide tech news from different sources
 
 ## Table of Contents
 
@@ -8,7 +8,7 @@
 
 ## Demo
 
-👉 Play Demo <a href="#">here</a>.
+👉 Play Demo <a href="https://mo-news-app.herokuapp.com/">here</a>.
 
 <br>
 
@@ -16,9 +16,11 @@
 
 ## Achievements
 
-
-## Requirements
-
+1. Simple and clean UI with [reactstrap](https://reactstrap.github.io)
+2. Lightweight and Performant code with [eslint airbnb style guide](https://www.npmjs.com/package/eslint-config-airbnb)
+3. Automated testing for components with [Jest](https://jestjs.io) & [Enzyme](https://airbnb.io/enzyme)
+4. Simple server-rendering & client-side routing with [Next.js]((https://nextjs.org)
+5. Deployed the app on [Heroku](https://www.heroku.com)
 
 ## Prerequisites
 
@@ -30,10 +32,10 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 
 From the root directory:
 
-1. Install project dependencies & Build a client bundle with Next:
+1. Install project dependencies & Build client bundles:
 
 ```sh
-npm run build
+npm install
 ```
 
 2. Start server:
@@ -56,7 +58,8 @@ npm test
 
 * [React](https://reactjs.org) 
 * [NPM](https://www.npmjs.com)
-* [Next](https://nextjs.org)
+* [Next.js](https://nextjs.org)
+* [reactstrap](https://reactstrap.github.io)
 * [Jest](https://jestjs.io)
 * [Enzyme](https://airbnb.io/enzyme)
 * [Heroku](https://www.heroku.com)

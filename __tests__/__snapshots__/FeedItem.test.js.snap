@@ -71,7 +71,12 @@ ShallowWrapper {
           <Media
             heading={true}
           >
-            Most stockmarket returns come from a tiny fraction of shares
+            <a
+              href="https://www.economist.com/finance-and-economics/2018/06/23/most-stockmarket-returns-come-from-a-tiny-fraction-of-shares"
+              target="_blank"
+            >
+              Most stockmarket returns come from a tiny fraction of shares
+            </a>
           </Media>
           Facebook, Amazon, Apple, Netflix and Google (FAANG) have been the motor of the S&P 500
           <br />
@@ -146,7 +151,12 @@ ShallowWrapper {
             <Media
               heading={true}
             >
-              Most stockmarket returns come from a tiny fraction of shares
+              <a
+                href="https://www.economist.com/finance-and-economics/2018/06/23/most-stockmarket-returns-come-from-a-tiny-fraction-of-shares"
+                target="_blank"
+              >
+                Most stockmarket returns come from a tiny fraction of shares
+              </a>
             </Media>
             Facebook, Amazon, Apple, Netflix and Google (FAANG) have been the motor of the S&P 500
             <br />
@@ -244,7 +254,12 @@ ShallowWrapper {
               <Media
                 heading={true}
               >
-                Most stockmarket returns come from a tiny fraction of shares
+                <a
+                  href="https://www.economist.com/finance-and-economics/2018/06/23/most-stockmarket-returns-come-from-a-tiny-fraction-of-shares"
+                  target="_blank"
+                >
+                  Most stockmarket returns come from a tiny fraction of shares
+                </a>
               </Media>,
               "Facebook, Amazon, Apple, Netflix and Google (FAANG) have been the motor of the S&P 500",
               <br />,
@@ -284,11 +299,28 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "function",
               "props": Object {
-                "children": "Most stockmarket returns come from a tiny fraction of shares",
+                "children": <a
+                  href="https://www.economist.com/finance-and-economics/2018/06/23/most-stockmarket-returns-come-from-a-tiny-fraction-of-shares"
+                  target="_blank"
+                >
+                  Most stockmarket returns come from a tiny fraction of shares
+                </a>,
                 "heading": true,
               },
               "ref": null,
-              "rendered": "Most stockmarket returns come from a tiny fraction of shares",
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Most stockmarket returns come from a tiny fraction of shares",
+                  "href": "https://www.economist.com/finance-and-economics/2018/06/23/most-stockmarket-returns-come-from-a-tiny-fraction-of-shares",
+                  "target": "_blank",
+                },
+                "ref": null,
+                "rendered": "Most stockmarket returns come from a tiny fraction of shares",
+                "type": "a",
+              },
               "type": [Function],
             },
             "Facebook, Amazon, Apple, Netflix and Google (FAANG) have been the motor of the S&P 500",
@@ -436,7 +468,12 @@ ShallowWrapper {
             <Media
               heading={true}
             >
-              Most stockmarket returns come from a tiny fraction of shares
+              <a
+                href="https://www.economist.com/finance-and-economics/2018/06/23/most-stockmarket-returns-come-from-a-tiny-fraction-of-shares"
+                target="_blank"
+              >
+                Most stockmarket returns come from a tiny fraction of shares
+              </a>
             </Media>
             Facebook, Amazon, Apple, Netflix and Google (FAANG) have been the motor of the S&P 500
             <br />
@@ -511,7 +548,12 @@ ShallowWrapper {
               <Media
                 heading={true}
               >
-                Most stockmarket returns come from a tiny fraction of shares
+                <a
+                  href="https://www.economist.com/finance-and-economics/2018/06/23/most-stockmarket-returns-come-from-a-tiny-fraction-of-shares"
+                  target="_blank"
+                >
+                  Most stockmarket returns come from a tiny fraction of shares
+                </a>
               </Media>
               Facebook, Amazon, Apple, Netflix and Google (FAANG) have been the motor of the S&P 500
               <br />
@@ -609,7 +651,12 @@ ShallowWrapper {
                 <Media
                   heading={true}
                 >
-                  Most stockmarket returns come from a tiny fraction of shares
+                  <a
+                    href="https://www.economist.com/finance-and-economics/2018/06/23/most-stockmarket-returns-come-from-a-tiny-fraction-of-shares"
+                    target="_blank"
+                  >
+                    Most stockmarket returns come from a tiny fraction of shares
+                  </a>
                 </Media>,
                 "Facebook, Amazon, Apple, Netflix and Google (FAANG) have been the motor of the S&P 500",
                 <br />,
@@ -649,11 +696,28 @@ ShallowWrapper {
                 "key": undefined,
                 "nodeType": "function",
                 "props": Object {
-                  "children": "Most stockmarket returns come from a tiny fraction of shares",
+                  "children": <a
+                    href="https://www.economist.com/finance-and-economics/2018/06/23/most-stockmarket-returns-come-from-a-tiny-fraction-of-shares"
+                    target="_blank"
+                  >
+                    Most stockmarket returns come from a tiny fraction of shares
+                  </a>,
                   "heading": true,
                 },
                 "ref": null,
-                "rendered": "Most stockmarket returns come from a tiny fraction of shares",
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Most stockmarket returns come from a tiny fraction of shares",
+                    "href": "https://www.economist.com/finance-and-economics/2018/06/23/most-stockmarket-returns-come-from-a-tiny-fraction-of-shares",
+                    "target": "_blank",
+                  },
+                  "ref": null,
+                  "rendered": "Most stockmarket returns come from a tiny fraction of shares",
+                  "type": "a",
+                },
                 "type": [Function],
               },
               "Facebook, Amazon, Apple, Netflix and Google (FAANG) have been the motor of the S&P 500",
