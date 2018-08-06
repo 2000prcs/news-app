@@ -19,7 +19,7 @@
 1. Simple and clean UI with [reactstrap](https://reactstrap.github.io)
 2. Lightweight and Performant code with [eslint airbnb style guide](https://www.npmjs.com/package/eslint-config-airbnb)
 3. Automated testing for components with [Jest](https://jestjs.io) & [Enzyme](https://airbnb.io/enzyme)
-4. Simple server-rendering & client-side routing with [Next.js]((https://nextjs.org)
+4. Simple server-rendering & client-side routing with [Next.js](https://nextjs.org)
 5. Deployed the app on [Heroku](https://www.heroku.com)
 
 ## Prerequisites
