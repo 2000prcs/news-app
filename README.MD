@@ -1,5 +1,5 @@
 # Worldwide Tech News App
-> Web application viewing worldwide tech news from different sources
+> Aggregator for viewing worldwide tech news
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 <br>
 
-<img width="400" height="300" src="https://i.imgur.com/F7OxiPZ.png">
+<img width="500" height="400" src="https://i.imgur.com/F7OxiPZ.png">
 
 ## Achievements
 
